@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
     "casperjs": "^1.1.4",
     "cheerio": "^1.0.0-rc.2",
+    "mongoose": "^5.4.15",
     "nightmare": "^3.0.1",
     "slimer": "0.0.4"
   }
